@@ -2,8 +2,6 @@
 
 A fast, beautiful maze game built with **Next.js 16**, **TypeScript**, and **Canvas**. Mazes are procedurally generated using classic algorithms, rendered with smooth animations, and fully playable on desktop and mobile.
 
-![MazeGen](https://via.placeholder.com/900x500/0f0f1a/e94560?text=MazeGen+Preview)
-
 ## Features
 
 - **Two generation algorithms**
